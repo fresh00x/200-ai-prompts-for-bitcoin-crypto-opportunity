@@ -1,4 +1,4 @@
-# 200-ai-prompts-for-bitcoin-crypto-opportunity
+# 200 AI Prompts for Bitcoin Crypto Opportunity
 
 Unlock the full potential of your crypto opportunities with this curated collection of 200 engaging and thought-provoking AI prompts. Ideal for entrepreneurs, investors, and enthusiasts looking to cap
 
@@ -6,7 +6,7 @@ Unlock the full potential of your crypto opportunities with this curated collect
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 4 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,7 @@ Unlock the full potential of your crypto opportunities with this curated collect
 ## Sample
 
 ```json
-Keys: title, description, price
+"What's the next big thing in the world of Bitcoin?"
 ```
 
 ## Usage
